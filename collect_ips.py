@@ -4,7 +4,7 @@ import re
 import os
 
 # 目标URL列表
-urls = ['https://ip.164746.xyz'
+urls = ['https://monitor.gacjie.cn/page/cloudflare/ipv4.html'
         ]
 
 # 正则表达式用于匹配IP地址
